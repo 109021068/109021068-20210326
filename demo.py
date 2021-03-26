@@ -15,7 +15,6 @@ if r.status_code == 200:
         text3 = text2.replace(' ','')
         print(text3)
         fp.write(text3+"\n")
-    fp.close()
-    
+    fp.close()   
 else:
     print("no page")
