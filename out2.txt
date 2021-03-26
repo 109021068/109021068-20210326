@@ -1,0 +1,20 @@
+發明專利證書-I368494-遠端即時心復健訓練與自動監控回覆裝置及方法		發明人：吳明峰、溫志煜、許正園、王經篤		專利權人：國立中興大學、行政院國軍退除役官兵輔導委員會台中榮民總醫院		專利權期間：2012年7月21日至2029年1月9日止
+(U.S.PatentNo.10,409,844)		MethodforExtractingMaximalRepeatPatternsandComputingFrequencyDistributionTables.		Applicant:Ching-TuWang,Taichung(TW)(Jing-DooWang)		Inventor:Ching-TuWang,Taichung(TW)(Jing-DooWang)		Period:2019.9.10-2038.2.23
+BookTitle:		"BioinformaticsintheEraofPostGenomicsandBigData"	Editedby:Prof.IbrokhimAbdurakhmonovPublisher:InTechOpenNovember2018ISBN:978-953-51-6056-4				Chapter:				Anovelapproachtomineforgeneticmarkersviacomparingclassfrequencydistributionsofmaximalrepeats					extractedfromtaggedwholegenomicsequencesJing-DooWang
+Editedby:Prof.IbrokhimAbdurakhmonov
+Publisher:InTechOpen
+November2018
+ISBN:978-953-51-6056-4
+				Chapter:				Anovelapproachtomineforgeneticmarkersviacomparingclassfrequencydistributionsofmaximalrepeats					extractedfromtaggedwholegenomicsequencesJing-DooWang
+BookTitle:DiscoveriesandBreakthroughsinCognitiveInformaticsandNaturalIntelligenceEditedby:YingxuWang,UniversityofCalgary,CanadaNovember2009ISBN:978-1-60566-902-1				Chapter28:ScalingBehaviorofMaximalRepeatDistributionsinGenomicSequences--ARandomizeTestFollowUpStudyJ.D.WangandKa-LokNg			
+Editedby:YingxuWang,UniversityofCalgary,Canada
+November2009
+ISBN:978-1-60566-902-1
+				Chapter28:ScalingBehaviorofMaximalRepeatDistributionsinGenomicSequences--ARandomizeTestFollowUpStudyJ.D.WangandKa-LokNg			
+		OnlineWebquerysystemforvariousfrequencydistributionsofbuspassengersinTaichungcityofTaiwan		Jing-DooWangandShin-HungPan*,Cheng-YuanHo,Shu-chuanLiao,Yao-NanLienandAchmadNurmandi(*:Correspondingauthor)	IETSmartCities(Specialissue:　GeospatialSensing,Mining&AnalyticsforSmartCities)
+(Submitted)		ExtractingCommonDNASequencesinCompleteGenomesof7538VirusesandFiveselectedMammalsJing-DooWang,Yi-ChunWang,Rouh-MeiHuandJeffreyTsaiInternationalJournalofDataMiningandBioinformatics(IJDMB)(SCIE)
+ANovelApproachtoExtractSignificantTimeIntervalPatternsofVehiclesfromFreewayGantryTimestampSequencesJing-DooWangandMing-ChorngHwangAppliedSciences,2017,7(9),878;doi:10.3390/app7090878.(SCIE,IF=1.679)(SpecialIssue"SelectedPapersfromIEEEICASI2017")
+ExtractingSignificantPatternHistoriesfromTimestampedTextsusingMapReduceJing-DooWangJournalofSupercomputing,72(8),pp.3236-3260,DOI10.1007/s11227-016-1713-z,April2016(SCI,SCIE2014JCR,IF=0.858,RANK=56/102,COMPUTERSCIENCE,THEORY&METHODS)
+ShapeQueryforPatternHistoryinPubMedLiteraturesviaHaarWaveletJing-DooWang,Zhong-KaiJiang,Jui-ChiChenInternationalJournalofAdvancedInformationTechnologies(IJAIT),Vol.9;No.6.pp.67-76,December2015.	
+	CombinationTherapyUsingChelatingAgentandZincforWilson’sDisease.
+ANovelBLAST-BasedRelativeDistance(BBRD)MethodCanEffectivelyGroupMembersofProteinArginineMethyltransferasesandSuggesttheirEvolutionaryRelationship.
