@@ -8,7 +8,7 @@ if r.status_code == 200:
     soup = BeautifulSoup(r.text, "lxml")
     #print(soup)
     result1 = soup.find_all("li")
-    #rint(result1)
+    #print(result1)
     fp = open("out2.txt","w",encoding="big5")
     for val in result1:
         text2 = val.text.replace('\n','')
